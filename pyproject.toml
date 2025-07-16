@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "catapult-otel"
+authors = [{name = "Bruno E. Firnkes", email = "bruno.firnkes@frontrowgroup.de"}]
+version = "0.0.0"
+keywords = ["otel"]
+readme = "README.md"
+requires-python = ">=3.9"
